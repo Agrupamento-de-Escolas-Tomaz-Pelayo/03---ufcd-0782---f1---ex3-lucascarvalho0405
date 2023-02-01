@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("Olá Mundo!\n Estou a aprender C.");
+    printf("Olá Mundo!\nEstou a aprender C.");
     return(0);
 
 }
